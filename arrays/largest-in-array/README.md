@@ -4,3 +4,5 @@ Find the largest element in the given array.
 
 **Approach:** Single pass, keep a running maximum.  
 **Time:** O(n) | **Space:** O(1)
+
+https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
