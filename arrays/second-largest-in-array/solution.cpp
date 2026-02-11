@@ -19,3 +19,4 @@ class Solution {
         }
         return (secondLargest!=INT_MIN)?secondLargest:-1;
     }
+};
