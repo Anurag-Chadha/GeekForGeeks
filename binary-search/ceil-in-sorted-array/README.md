@@ -4,4 +4,5 @@ Given sorted array and target element. Find index of smallest element greater th
 
 **Time Complexity:** O(logn)
 
+**Space Complexity:** O(1)
 
